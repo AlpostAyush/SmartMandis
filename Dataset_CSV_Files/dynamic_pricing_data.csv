@@ -1,0 +1,1001 @@
+product_id,product,category,days_left,stock,demand_score,weekday,season,current_price
+P007,Eggs,Dairy,1,106,60,Tuesday,Summer,16.15
+P031,Cough Syrup,Health,6,183,81,Thursday,Winter,88.14
+P023,Baked Beans,Canned,1,47,65,Friday,Rainy,68.67
+P012,Apple,Fruit,3,169,44,Friday,Winter,55.59
+P030,Moisturizer,Health,5,51,61,Saturday,Summer,153.31
+P013,Banana,Fruit,5,13,43,Wednesday,Rainy,14.71
+P003,Yogurt,Dairy,2,133,29,Saturday,Summer,42.75
+P004,Cheese,Dairy,1,114,81,Friday,Summer,66.83
+P013,Banana,Fruit,4,177,48,Sunday,Rainy,11.05
+P007,Eggs,Dairy,2,29,56,Sunday,Rainy,18.26
+P026,Baby Formula,Baby,3,88,62,Monday,Rainy,253.31
+P002,Bread,Bakery,10,13,55,Monday,Winter,24.28
+P020,Ice Cream,Frozen,8,145,85,Friday,Rainy,83.68
+P026,Baby Formula,Baby,9,17,48,Tuesday,Winter,244.04
+P028,Disinfectant Wipes,Cleaning,2,23,28,Tuesday,Summer,72.37
+P022,Coconut Water,Beverage,5,117,62,Monday,Winter,35.8
+P018,Granola Bar,Snacks,6,160,36,Tuesday,Summer,32.58
+P011,Onion,Produce,1,52,37,Thursday,Rainy,32.04
+P002,Bread,Bakery,10,153,50,Monday,Rainy,15.96
+P020,Ice Cream,Frozen,6,80,91,Friday,Rainy,96.6
+P006,Butter,Dairy,8,149,41,Friday,Summer,44.31
+P022,Coconut Water,Beverage,6,65,56,Thursday,Summer,39.14
+P020,Ice Cream,Frozen,8,186,86,Tuesday,Rainy,85.48
+P003,Yogurt,Dairy,4,92,100,Saturday,Rainy,53.02
+P002,Bread,Bakery,6,89,83,Friday,Winter,32.58
+P009,Spinach,Produce,8,180,33,Sunday,Winter,6.35
+P020,Ice Cream,Frozen,7,51,24,Sunday,Rainy,82.79
+P015,Fish,Meat,5,25,89,Tuesday,Rainy,160.7
+P003,Yogurt,Dairy,10,195,61,Wednesday,Summer,36.67
+P014,Chicken,Meat,1,68,27,Friday,Rainy,119.78
+P027,Toothpaste,Health,2,60,31,Monday,Summer,38.59
+P026,Baby Formula,Baby,4,116,69,Sunday,Rainy,254.15
+P008,Paneer,Dairy,8,108,53,Wednesday,Summer,63.46
+P030,Moisturizer,Health,3,60,75,Friday,Summer,156.91
+P019,Frozen Pizza,Frozen,8,74,50,Sunday,Summer,144.59
+P025,Dog Food,Pet,4,110,66,Wednesday,Summer,104.29
+P008,Paneer,Dairy,3,105,93,Thursday,Summer,81.05
+P029,Face Mask,Health,9,194,23,Monday,Winter,8.49
+P010,Tomato,Produce,1,99,86,Tuesday,Rainy,35.51
+P022,Coconut Water,Beverage,1,13,80,Thursday,Winter,54.15
+P007,Eggs,Dairy,6,123,72,Wednesday,Summer,8.93
+P002,Bread,Bakery,5,88,56,Thursday,Winter,28.73
+P002,Bread,Bakery,3,182,90,Tuesday,Summer,33.64
+P002,Bread,Bakery,5,45,23,Saturday,Summer,23.89
+P023,Baked Beans,Canned,3,104,85,Monday,Winter,66.29
+P020,Ice Cream,Frozen,9,19,25,Wednesday,Summer,81.28
+P030,Moisturizer,Health,1,195,65,Friday,Summer,149.27
+P020,Ice Cream,Frozen,4,186,42,Monday,Summer,81.43
+P001,Milk,Dairy,3,73,25,Friday,Summer,36.42
+P027,Toothpaste,Health,2,168,92,Sunday,Rainy,50.57
+P012,Apple,Fruit,2,112,63,Monday,Rainy,60.2
+P001,Milk,Dairy,7,41,63,Monday,Winter,36.47
+P018,Granola Bar,Snacks,8,98,39,Friday,Summer,32.54
+P007,Eggs,Dairy,6,85,29,Monday,Winter,5.0
+P019,Frozen Pizza,Frozen,3,43,95,Friday,Winter,157.48
+P020,Ice Cream,Frozen,4,155,80,Sunday,Winter,94.13
+P021,Iced Tea,Beverage,1,192,36,Tuesday,Winter,26.19
+P001,Milk,Dairy,3,143,23,Thursday,Rainy,31.2
+P008,Paneer,Dairy,2,92,51,Saturday,Winter,72.08
+P023,Baked Beans,Canned,8,16,99,Sunday,Winter,64.71
+P023,Baked Beans,Canned,9,157,62,Saturday,Summer,49.74
+P022,Coconut Water,Beverage,10,177,42,Saturday,Rainy,24.4
+P003,Yogurt,Dairy,1,85,89,Monday,Winter,58.76
+P006,Butter,Dairy,9,47,52,Monday,Rainy,48.67
+P030,Moisturizer,Health,6,200,99,Saturday,Rainy,147.82
+P028,Disinfectant Wipes,Cleaning,7,154,86,Wednesday,Summer,69.71
+P018,Granola Bar,Snacks,9,157,41,Tuesday,Rainy,25.02
+P008,Paneer,Dairy,8,151,54,Saturday,Rainy,62.34
+P009,Spinach,Produce,7,126,86,Wednesday,Summer,23.25
+P002,Bread,Bakery,7,14,88,Sunday,Winter,35.72
+P007,Eggs,Dairy,4,157,35,Wednesday,Summer,5.0
+P006,Butter,Dairy,7,94,28,Monday,Winter,48.38
+P010,Tomato,Produce,8,91,54,Sunday,Summer,20.26
+P023,Baked Beans,Canned,5,41,62,Tuesday,Rainy,66.41
+P005,Juice,Beverage,10,198,38,Saturday,Summer,33.32
+P014,Chicken,Meat,4,60,30,Friday,Summer,114.53
+P018,Granola Bar,Snacks,8,172,51,Thursday,Winter,27.27
+P006,Butter,Dairy,8,141,24,Sunday,Summer,36.96
+P018,Granola Bar,Snacks,2,112,24,Friday,Summer,38.68
+P001,Milk,Dairy,3,190,80,Sunday,Rainy,41.86
+P006,Butter,Dairy,10,92,57,Tuesday,Winter,47.34
+P026,Baby Formula,Baby,9,12,20,Sunday,Rainy,238.6
+P016,Chips,Snacks,7,28,21,Wednesday,Rainy,13.36
+P021,Iced Tea,Beverage,8,111,43,Tuesday,Summer,21.53
+P018,Granola Bar,Snacks,3,78,59,Wednesday,Winter,47.06
+P005,Juice,Beverage,10,37,97,Saturday,Summer,48.23
+P007,Eggs,Dairy,9,199,31,Friday,Winter,5.0
+P019,Frozen Pizza,Frozen,6,156,43,Sunday,Winter,142.58
+P026,Baby Formula,Baby,5,110,51,Saturday,Rainy,247.97
+P028,Disinfectant Wipes,Cleaning,7,42,25,Tuesday,Rainy,63.48
+P016,Chips,Snacks,7,133,57,Saturday,Summer,19.72
+P026,Baby Formula,Baby,3,139,53,Monday,Rainy,247.9
+P030,Moisturizer,Health,9,72,30,Tuesday,Rainy,141.53
+P014,Chicken,Meat,7,178,88,Thursday,Rainy,116.74
+P020,Ice Cream,Frozen,4,29,83,Thursday,Winter,101.74
+P004,Cheese,Dairy,3,170,79,Friday,Rainy,61.6
+P028,Disinfectant Wipes,Cleaning,2,168,25,Tuesday,Summer,64.8
+P016,Chips,Snacks,9,145,43,Sunday,Summer,13.27
+P017,Cookies,Snacks,8,28,27,Wednesday,Rainy,28.75
+P019,Frozen Pizza,Frozen,8,28,71,Monday,Winter,150.07
+P023,Baked Beans,Canned,1,49,50,Monday,Summer,66.67
+P011,Onion,Produce,6,32,52,Thursday,Summer,30.53
+P021,Iced Tea,Beverage,7,56,90,Sunday,Rainy,34.42
+P006,Butter,Dairy,9,68,65,Friday,Summer,53.59
+P008,Paneer,Dairy,2,118,74,Friday,Winter,74.75
+P029,Face Mask,Health,1,32,86,Monday,Winter,37.21
+P020,Ice Cream,Frozen,4,197,62,Friday,Rainy,83.44
+P023,Baked Beans,Canned,5,126,37,Thursday,Winter,53.55
+P018,Granola Bar,Snacks,6,108,27,Saturday,Summer,31.34
+P018,Granola Bar,Snacks,1,64,64,Saturday,Summer,48.02
+P010,Tomato,Produce,9,84,43,Saturday,Winter,15.55
+P003,Yogurt,Dairy,4,52,28,Friday,Winter,41.07
+P020,Ice Cream,Frozen,10,81,31,Wednesday,Winter,76.37
+P005,Juice,Beverage,3,109,39,Friday,Rainy,44.97
+P012,Apple,Fruit,1,175,28,Tuesday,Rainy,53.37
+P006,Butter,Dairy,7,77,66,Friday,Summer,54.46
+P007,Eggs,Dairy,10,186,62,Thursday,Rainy,5.0
+P021,Iced Tea,Beverage,5,31,86,Wednesday,Rainy,39.96
+P030,Moisturizer,Health,9,146,78,Wednesday,Summer,145.25
+P014,Chicken,Meat,10,107,34,Monday,Rainy,104.18
+P003,Yogurt,Dairy,7,189,70,Saturday,Winter,41.05
+P021,Iced Tea,Beverage,9,168,29,Friday,Rainy,8.78
+P029,Face Mask,Health,9,115,26,Thursday,Winter,12.01
+P029,Face Mask,Health,1,129,58,Saturday,Summer,27.91
+P019,Frozen Pizza,Frozen,6,195,34,Sunday,Summer,138.08
+P001,Milk,Dairy,3,118,56,Thursday,Winter,42.03
+P011,Onion,Produce,4,133,25,Sunday,Rainy,23.23
+P010,Tomato,Produce,7,157,60,Sunday,Rainy,20.91
+P026,Baby Formula,Baby,7,13,58,Monday,Summer,247.56
+P020,Ice Cream,Frozen,7,12,50,Monday,Rainy,91.28
+P009,Spinach,Produce,6,197,36,Sunday,Summer,12.57
+P003,Yogurt,Dairy,3,68,44,Sunday,Rainy,46.4
+P023,Baked Beans,Canned,6,77,94,Monday,Rainy,65.64
+P029,Face Mask,Health,8,84,22,Saturday,Winter,10.9
+P005,Juice,Beverage,3,163,53,Tuesday,Winter,46.38
+P012,Apple,Fruit,6,171,22,Friday,Summer,42.17
+P013,Banana,Fruit,7,42,69,Thursday,Rainy,18.15
+P015,Fish,Meat,4,123,68,Saturday,Rainy,152.07
+P010,Tomato,Produce,1,166,82,Saturday,Rainy,29.37
+P015,Fish,Meat,8,193,41,Sunday,Rainy,136.08
+P030,Moisturizer,Health,9,73,57,Sunday,Winter,143.74
+P007,Eggs,Dairy,9,84,31,Tuesday,Summer,5.0
+P015,Fish,Meat,6,148,80,Thursday,Rainy,147.14
+P025,Dog Food,Pet,4,24,52,Monday,Summer,102.53
+P027,Toothpaste,Health,3,178,66,Sunday,Summer,40.9
+P026,Baby Formula,Baby,9,128,82,Saturday,Summer,245.73
+P007,Eggs,Dairy,5,131,53,Sunday,Summer,7.53
+P023,Baked Beans,Canned,1,66,97,Wednesday,Summer,73.55
+P001,Milk,Dairy,7,196,36,Sunday,Summer,30.11
+P023,Baked Beans,Canned,5,166,39,Sunday,Rainy,51.89
+P023,Baked Beans,Canned,2,181,40,Tuesday,Winter,57.02
+P001,Milk,Dairy,5,132,84,Sunday,Summer,42.3
+P030,Moisturizer,Health,3,169,98,Tuesday,Rainy,156.95
+P004,Cheese,Dairy,9,60,77,Friday,Winter,57.05
+P028,Disinfectant Wipes,Cleaning,5,160,33,Monday,Rainy,60.55
+P010,Tomato,Produce,6,104,94,Friday,Summer,29.52
+P013,Banana,Fruit,3,174,69,Tuesday,Rainy,20.13
+P025,Dog Food,Pet,3,49,72,Monday,Winter,105.56
+P010,Tomato,Produce,6,54,97,Thursday,Winter,32.87
+P026,Baby Formula,Baby,10,135,50,Wednesday,Rainy,236.97
+P020,Ice Cream,Frozen,4,190,81,Friday,Summer,91.24
+P003,Yogurt,Dairy,4,159,63,Wednesday,Summer,44.47
+P007,Eggs,Dairy,7,37,57,Thursday,Summer,9.76
+P007,Eggs,Dairy,3,154,98,Wednesday,Winter,14.0
+P003,Yogurt,Dairy,10,67,87,Sunday,Winter,43.37
+P009,Spinach,Produce,8,84,77,Saturday,Summer,18.5
+P020,Ice Cream,Frozen,4,154,32,Monday,Summer,84.77
+P002,Bread,Bakery,7,160,49,Monday,Summer,21.23
+P022,Coconut Water,Beverage,4,77,71,Thursday,Rainy,45.44
+P028,Disinfectant Wipes,Cleaning,1,17,88,Sunday,Winter,86.13
+P009,Spinach,Produce,5,156,94,Thursday,Winter,25.28
+P001,Milk,Dairy,10,187,85,Tuesday,Summer,34.25
+P024,Canned Tuna,Canned,6,189,68,Wednesday,Winter,77.56
+P001,Milk,Dairy,5,73,67,Thursday,Rainy,39.85
+P005,Juice,Beverage,7,57,36,Saturday,Winter,42.76
+P024,Canned Tuna,Canned,4,122,23,Sunday,Summer,68.83
+P016,Chips,Snacks,6,138,100,Tuesday,Summer,28.84
+P002,Bread,Bakery,1,63,54,Friday,Winter,36.15
+P024,Canned Tuna,Canned,10,82,29,Wednesday,Summer,68.49
+P020,Ice Cream,Frozen,10,102,33,Friday,Winter,72.26
+P026,Baby Formula,Baby,3,52,26,Saturday,Rainy,244.84
+P008,Paneer,Dairy,6,150,70,Wednesday,Summer,69.74
+P025,Dog Food,Pet,5,117,46,Friday,Winter,99.94
+P003,Yogurt,Dairy,9,200,96,Tuesday,Winter,40.91
+P002,Bread,Bakery,6,154,43,Thursday,Summer,25.44
+P008,Paneer,Dairy,4,11,22,Sunday,Summer,67.0
+P019,Frozen Pizza,Frozen,4,68,32,Monday,Summer,148.32
+P022,Coconut Water,Beverage,9,126,87,Friday,Rainy,36.5
+P002,Bread,Bakery,1,172,26,Thursday,Rainy,26.39
+P025,Dog Food,Pet,9,180,31,Saturday,Rainy,81.53
+P025,Dog Food,Pet,9,183,71,Sunday,Rainy,92.06
+P018,Granola Bar,Snacks,1,101,46,Friday,Winter,41.86
+P011,Onion,Produce,5,71,88,Sunday,Rainy,34.31
+P004,Cheese,Dairy,6,90,87,Monday,Summer,65.86
+P010,Tomato,Produce,1,165,78,Monday,Rainy,34.82
+P002,Bread,Bakery,3,27,79,Tuesday,Winter,39.82
+P024,Canned Tuna,Canned,1,69,63,Saturday,Rainy,84.95
+P001,Milk,Dairy,4,81,23,Friday,Winter,32.45
+P025,Dog Food,Pet,10,96,54,Thursday,Rainy,90.02
+P020,Ice Cream,Frozen,9,53,39,Friday,Rainy,81.12
+P009,Spinach,Produce,10,102,58,Monday,Summer,11.77
+P014,Chicken,Meat,7,54,49,Friday,Winter,115.37
+P007,Eggs,Dairy,10,171,69,Friday,Winter,5.0
+P023,Baked Beans,Canned,4,118,100,Tuesday,Summer,72.53
+P023,Baked Beans,Canned,10,72,21,Monday,Rainy,45.77
+P020,Ice Cream,Frozen,4,106,78,Sunday,Rainy,97.36
+P005,Juice,Beverage,9,199,59,Tuesday,Summer,39.93
+P027,Toothpaste,Health,6,184,59,Saturday,Summer,34.9
+P009,Spinach,Produce,8,118,87,Saturday,Winter,21.98
+P001,Milk,Dairy,2,68,76,Monday,Rainy,51.03
+P016,Chips,Snacks,4,190,66,Saturday,Rainy,25.39
+P015,Fish,Meat,1,118,64,Saturday,Winter,155.15
+P009,Spinach,Produce,1,200,82,Sunday,Winter,27.24
+P020,Ice Cream,Frozen,9,34,61,Friday,Rainy,87.11
+P014,Chicken,Meat,9,57,40,Tuesday,Rainy,111.65
+P012,Apple,Fruit,5,181,31,Sunday,Summer,48.25
+P025,Dog Food,Pet,6,106,21,Friday,Winter,87.08
+P027,Toothpaste,Health,4,136,95,Tuesday,Rainy,45.57
+P020,Ice Cream,Frozen,1,17,83,Sunday,Summer,103.49
+P010,Tomato,Produce,3,49,47,Monday,Summer,27.11
+P030,Moisturizer,Health,1,163,39,Friday,Winter,147.33
+P011,Onion,Produce,7,181,84,Wednesday,Rainy,27.69
+P007,Eggs,Dairy,1,150,38,Tuesday,Summer,9.28
+P031,Cough Syrup,Health,9,80,64,Friday,Rainy,88.53
+P027,Toothpaste,Health,8,157,82,Saturday,Winter,37.88
+P012,Apple,Fruit,6,114,55,Thursday,Summer,52.73
+P013,Banana,Fruit,4,95,30,Thursday,Rainy,10.87
+P007,Eggs,Dairy,3,129,76,Sunday,Rainy,13.6
+P015,Fish,Meat,10,133,49,Tuesday,Summer,134.85
+P013,Banana,Fruit,5,114,23,Saturday,Winter,9.84
+P031,Cough Syrup,Health,2,199,78,Thursday,Summer,94.69
+P002,Bread,Bakery,1,21,52,Monday,Winter,38.02
+P011,Onion,Produce,5,25,53,Monday,Winter,33.92
+P005,Juice,Beverage,3,179,51,Friday,Rainy,47.42
+P004,Cheese,Dairy,10,26,20,Monday,Winter,45.12
+P018,Granola Bar,Snacks,8,26,37,Sunday,Winter,35.29
+P023,Baked Beans,Canned,7,89,74,Tuesday,Rainy,58.38
+P019,Frozen Pizza,Frozen,9,81,90,Tuesday,Winter,150.64
+P029,Face Mask,Health,1,117,76,Thursday,Winter,30.91
+P012,Apple,Fruit,1,108,61,Saturday,Rainy,65.15
+P020,Ice Cream,Frozen,7,182,84,Monday,Winter,86.86
+P003,Yogurt,Dairy,4,18,98,Saturday,Rainy,57.99
+P030,Moisturizer,Health,4,132,25,Monday,Summer,140.96
+P023,Baked Beans,Canned,5,52,87,Tuesday,Winter,68.07
+P029,Face Mask,Health,7,116,32,Thursday,Rainy,16.23
+P008,Paneer,Dairy,3,51,100,Sunday,Winter,83.71
+P009,Spinach,Produce,9,183,49,Monday,Winter,8.0
+P007,Eggs,Dairy,7,192,94,Tuesday,Summer,10.22
+P003,Yogurt,Dairy,7,29,87,Thursday,Winter,51.0
+P001,Milk,Dairy,10,168,53,Sunday,Rainy,26.69
+P011,Onion,Produce,6,169,77,Sunday,Winter,26.99
+P024,Canned Tuna,Canned,9,56,65,Saturday,Winter,73.37
+P006,Butter,Dairy,8,36,98,Monday,Summer,65.22
+P023,Baked Beans,Canned,1,114,52,Tuesday,Summer,66.37
+P015,Fish,Meat,1,148,40,Wednesday,Winter,146.14
+P023,Baked Beans,Canned,5,194,77,Monday,Summer,54.02
+P009,Spinach,Produce,8,166,34,Thursday,Winter,5.0
+P022,Coconut Water,Beverage,7,154,39,Tuesday,Winter,31.33
+P012,Apple,Fruit,2,49,62,Wednesday,Summer,66.98
+P031,Cough Syrup,Health,8,196,66,Thursday,Rainy,79.85
+P011,Onion,Produce,4,51,25,Wednesday,Winter,22.83
+P006,Butter,Dairy,1,37,85,Friday,Summer,67.52
+P027,Toothpaste,Health,1,43,97,Wednesday,Rainy,53.88
+P017,Cookies,Snacks,3,170,70,Sunday,Summer,37.12
+P031,Cough Syrup,Health,6,50,55,Tuesday,Winter,87.08
+P023,Baked Beans,Canned,9,73,56,Tuesday,Winter,56.65
+P009,Spinach,Produce,3,81,57,Wednesday,Summer,21.87
+P013,Banana,Fruit,4,31,40,Sunday,Winter,15.83
+P013,Banana,Fruit,10,119,32,Tuesday,Rainy,5.0
+P009,Spinach,Produce,8,37,96,Monday,Summer,23.32
+P007,Eggs,Dairy,3,117,55,Saturday,Summer,12.86
+P017,Cookies,Snacks,6,101,63,Saturday,Rainy,32.95
+P022,Coconut Water,Beverage,1,120,98,Sunday,Winter,52.24
+P016,Chips,Snacks,10,32,76,Monday,Winter,21.83
+P008,Paneer,Dairy,7,193,40,Wednesday,Rainy,55.61
+P030,Moisturizer,Health,10,179,24,Sunday,Summer,134.11
+P025,Dog Food,Pet,8,13,30,Sunday,Rainy,90.45
+P026,Baby Formula,Baby,4,145,72,Saturday,Winter,250.3
+P021,Iced Tea,Beverage,5,17,29,Thursday,Winter,23.64
+P004,Cheese,Dairy,9,140,82,Monday,Winter,58.27
+P029,Face Mask,Health,1,80,41,Thursday,Summer,30.59
+P029,Face Mask,Health,1,121,64,Monday,Summer,32.84
+P006,Butter,Dairy,7,191,72,Tuesday,Summer,49.6
+P031,Cough Syrup,Health,10,28,59,Tuesday,Winter,85.08
+P012,Apple,Fruit,4,172,73,Friday,Summer,57.24
+P026,Baby Formula,Baby,1,144,66,Sunday,Summer,251.99
+P005,Juice,Beverage,4,76,60,Monday,Summer,53.84
+P019,Frozen Pizza,Frozen,6,134,55,Friday,Rainy,142.3
+P011,Onion,Produce,6,117,46,Wednesday,Summer,26.72
+P011,Onion,Produce,5,31,84,Wednesday,Winter,39.64
+P013,Banana,Fruit,4,50,74,Tuesday,Rainy,19.59
+P009,Spinach,Produce,6,147,23,Tuesday,Winter,5.74
+P027,Toothpaste,Health,1,117,32,Tuesday,Summer,43.15
+P022,Coconut Water,Beverage,9,43,64,Monday,Winter,36.95
+P009,Spinach,Produce,10,175,83,Friday,Winter,10.04
+P010,Tomato,Produce,1,114,93,Tuesday,Summer,36.03
+P003,Yogurt,Dairy,7,56,84,Sunday,Winter,51.29
+P025,Dog Food,Pet,8,182,51,Monday,Rainy,88.26
+P008,Paneer,Dairy,1,110,83,Tuesday,Winter,78.33
+P024,Canned Tuna,Canned,8,22,47,Monday,Summer,74.87
+P019,Frozen Pizza,Frozen,7,57,35,Tuesday,Winter,143.77
+P014,Chicken,Meat,9,87,65,Wednesday,Summer,114.71
+P025,Dog Food,Pet,1,177,87,Wednesday,Winter,106.26
+P004,Cheese,Dairy,4,187,74,Saturday,Rainy,60.86
+P016,Chips,Snacks,10,107,31,Wednesday,Rainy,13.58
+P014,Chicken,Meat,1,10,51,Tuesday,Summer,130.58
+P030,Moisturizer,Health,1,31,99,Friday,Summer,168.51
+P013,Banana,Fruit,5,188,93,Wednesday,Winter,17.95
+P023,Baked Beans,Canned,8,117,82,Tuesday,Summer,58.09
+P028,Disinfectant Wipes,Cleaning,9,172,60,Sunday,Summer,61.3
+P021,Iced Tea,Beverage,5,93,100,Friday,Winter,34.97
+P019,Frozen Pizza,Frozen,5,92,83,Wednesday,Winter,151.43
+P021,Iced Tea,Beverage,10,107,75,Friday,Summer,23.59
+P008,Paneer,Dairy,9,161,80,Sunday,Summer,62.34
+P011,Onion,Produce,9,157,55,Thursday,Rainy,22.08
+P030,Moisturizer,Health,4,112,66,Saturday,Summer,151.55
+P010,Tomato,Produce,10,189,32,Monday,Rainy,5.06
+P030,Moisturizer,Health,5,133,78,Saturday,Winter,149.42
+P027,Toothpaste,Health,4,31,47,Monday,Summer,42.48
+P008,Paneer,Dairy,1,100,90,Saturday,Winter,82.96
+P012,Apple,Fruit,2,81,72,Friday,Summer,66.44
+P010,Tomato,Produce,10,165,37,Friday,Rainy,8.73
+P021,Iced Tea,Beverage,1,85,57,Monday,Summer,34.14
+P010,Tomato,Produce,5,120,45,Sunday,Winter,20.81
+P003,Yogurt,Dairy,10,178,96,Monday,Rainy,42.38
+P013,Banana,Fruit,2,90,29,Sunday,Rainy,15.98
+P025,Dog Food,Pet,10,164,73,Tuesday,Winter,92.53
+P025,Dog Food,Pet,10,42,24,Sunday,Rainy,85.44
+P007,Eggs,Dairy,1,114,29,Friday,Winter,6.81
+P020,Ice Cream,Frozen,3,87,80,Thursday,Winter,93.5
+P021,Iced Tea,Beverage,3,112,78,Sunday,Rainy,36.31
+P019,Frozen Pizza,Frozen,1,168,91,Thursday,Summer,157.02
+P012,Apple,Fruit,6,155,50,Wednesday,Winter,52.64
+P006,Butter,Dairy,1,63,57,Thursday,Rainy,60.08
+P017,Cookies,Snacks,10,94,90,Sunday,Rainy,30.47
+P025,Dog Food,Pet,8,79,50,Monday,Rainy,93.62
+P026,Baby Formula,Baby,1,26,83,Saturday,Rainy,262.52
+P020,Ice Cream,Frozen,6,108,92,Friday,Rainy,91.44
+P022,Coconut Water,Beverage,5,12,28,Saturday,Summer,33.87
+P009,Spinach,Produce,2,28,29,Wednesday,Rainy,22.26
+P024,Canned Tuna,Canned,7,40,67,Tuesday,Rainy,80.05
+P015,Fish,Meat,4,50,66,Wednesday,Summer,156.48
+P003,Yogurt,Dairy,1,176,68,Saturday,Summer,47.75
+P026,Baby Formula,Baby,7,87,56,Saturday,Winter,245.13
+P010,Tomato,Produce,2,166,66,Wednesday,Rainy,26.54
+P024,Canned Tuna,Canned,1,55,86,Wednesday,Rainy,91.5
+P030,Moisturizer,Health,3,50,92,Wednesday,Summer,163.09
+P015,Fish,Meat,9,31,74,Tuesday,Winter,145.61
+P030,Moisturizer,Health,2,76,83,Tuesday,Summer,158.82
+P002,Bread,Bakery,7,171,50,Monday,Summer,18.08
+P004,Cheese,Dairy,4,192,87,Wednesday,Winter,62.18
+P015,Fish,Meat,10,167,29,Tuesday,Rainy,131.28
+P002,Bread,Bakery,2,44,71,Thursday,Winter,39.09
+P015,Fish,Meat,8,135,25,Sunday,Rainy,135.14
+P018,Granola Bar,Snacks,9,126,47,Friday,Winter,31.04
+P030,Moisturizer,Health,9,61,58,Tuesday,Rainy,144.74
+P007,Eggs,Dairy,4,105,64,Tuesday,Summer,10.13
+P023,Baked Beans,Canned,1,131,25,Monday,Rainy,57.36
+P030,Moisturizer,Health,8,21,77,Friday,Winter,151.42
+P005,Juice,Beverage,3,59,84,Thursday,Rainy,59.93
+P005,Juice,Beverage,5,122,74,Thursday,Rainy,50.44
+P007,Eggs,Dairy,5,36,20,Saturday,Summer,5.64
+P014,Chicken,Meat,8,135,48,Wednesday,Summer,109.73
+P006,Butter,Dairy,2,88,97,Saturday,Rainy,64.84
+P029,Face Mask,Health,8,186,90,Saturday,Rainy,23.38
+P006,Butter,Dairy,2,199,98,Friday,Winter,63.37
+P029,Face Mask,Health,4,96,95,Monday,Winter,33.84
+P024,Canned Tuna,Canned,6,118,43,Saturday,Winter,75.34
+P030,Moisturizer,Health,1,23,23,Saturday,Rainy,153.94
+P002,Bread,Bakery,1,70,97,Monday,Winter,44.86
+P002,Bread,Bakery,3,116,29,Wednesday,Winter,25.22
+P007,Eggs,Dairy,9,194,76,Saturday,Rainy,5.0
+P012,Apple,Fruit,8,107,25,Sunday,Winter,49.85
+P002,Bread,Bakery,2,150,66,Monday,Summer,33.36
+P026,Baby Formula,Baby,6,65,99,Saturday,Winter,259.17
+P021,Iced Tea,Beverage,4,92,99,Tuesday,Summer,38.94
+P004,Cheese,Dairy,3,160,35,Sunday,Summer,53.32
+P003,Yogurt,Dairy,5,172,80,Friday,Rainy,42.94
+P013,Banana,Fruit,5,120,69,Tuesday,Summer,13.86
+P012,Apple,Fruit,6,142,100,Friday,Rainy,61.23
+P031,Cough Syrup,Health,5,132,20,Sunday,Rainy,80.65
+P013,Banana,Fruit,2,134,60,Friday,Rainy,19.29
+P001,Milk,Dairy,7,100,61,Saturday,Winter,33.54
+P031,Cough Syrup,Health,3,148,51,Sunday,Rainy,86.28
+P007,Eggs,Dairy,8,21,68,Tuesday,Winter,5.0
+P028,Disinfectant Wipes,Cleaning,10,49,38,Sunday,Winter,58.35
+P031,Cough Syrup,Health,4,164,54,Thursday,Summer,85.16
+P016,Chips,Snacks,5,195,31,Thursday,Winter,17.29
+P026,Baby Formula,Baby,2,177,45,Sunday,Winter,246.8
+P002,Bread,Bakery,3,55,44,Sunday,Winter,30.53
+P001,Milk,Dairy,1,77,40,Monday,Rainy,43.53
+P005,Juice,Beverage,7,95,77,Friday,Summer,47.21
+P021,Iced Tea,Beverage,5,38,65,Thursday,Rainy,36.46
+P023,Baked Beans,Canned,8,166,64,Monday,Summer,53.64
+P030,Moisturizer,Health,2,121,92,Tuesday,Rainy,163.17
+P031,Cough Syrup,Health,1,31,99,Monday,Summer,104.65
+P022,Coconut Water,Beverage,10,116,88,Sunday,Winter,37.97
+P016,Chips,Snacks,3,144,76,Sunday,Rainy,29.94
+P023,Baked Beans,Canned,6,65,20,Sunday,Summer,51.45
+P008,Paneer,Dairy,8,48,83,Saturday,Summer,71.78
+P005,Juice,Beverage,1,57,56,Friday,Rainy,57.83
+P021,Iced Tea,Beverage,3,103,65,Friday,Rainy,32.09
+P023,Baked Beans,Canned,5,185,61,Thursday,Winter,57.1
+P027,Toothpaste,Health,2,135,95,Tuesday,Winter,50.81
+P006,Butter,Dairy,6,118,69,Wednesday,Rainy,53.58
+P030,Moisturizer,Health,4,87,92,Friday,Winter,156.16
+P009,Spinach,Produce,1,75,45,Tuesday,Summer,23.22
+P014,Chicken,Meat,7,130,66,Tuesday,Winter,113.28
+P022,Coconut Water,Beverage,7,111,76,Monday,Rainy,38.23
+P008,Paneer,Dairy,8,144,82,Tuesday,Rainy,65.67
+P016,Chips,Snacks,9,145,53,Thursday,Rainy,13.58
+P019,Frozen Pizza,Frozen,2,122,52,Monday,Rainy,151.4
+P009,Spinach,Produce,2,114,36,Thursday,Summer,19.84
+P002,Bread,Bakery,3,67,49,Saturday,Rainy,35.01
+P004,Cheese,Dairy,1,199,65,Friday,Winter,60.93
+P022,Coconut Water,Beverage,1,41,30,Friday,Winter,39.05
+P002,Bread,Bakery,1,25,58,Wednesday,Winter,41.4
+P023,Baked Beans,Canned,2,12,45,Friday,Winter,66.45
+P019,Frozen Pizza,Frozen,3,38,86,Tuesday,Summer,159.75
+P019,Frozen Pizza,Frozen,9,151,97,Thursday,Summer,148.91
+P031,Cough Syrup,Health,4,157,46,Sunday,Rainy,84.58
+P017,Cookies,Snacks,10,180,77,Sunday,Winter,25.09
+P016,Chips,Snacks,5,81,37,Sunday,Rainy,18.68
+P009,Spinach,Produce,3,48,82,Thursday,Rainy,30.27
+P016,Chips,Snacks,8,114,49,Saturday,Winter,17.61
+P013,Banana,Fruit,5,84,22,Wednesday,Rainy,5.41
+P031,Cough Syrup,Health,3,112,48,Wednesday,Summer,86.53
+P023,Baked Beans,Canned,1,150,93,Wednesday,Summer,68.16
+P012,Apple,Fruit,1,60,68,Sunday,Summer,67.29
+P011,Onion,Produce,6,79,34,Monday,Winter,23.76
+P029,Face Mask,Health,8,111,47,Thursday,Winter,17.88
+P013,Banana,Fruit,9,167,50,Wednesday,Summer,5.0
+P010,Tomato,Produce,6,25,34,Monday,Summer,19.95
+P014,Chicken,Meat,2,172,70,Thursday,Winter,121.88
+P012,Apple,Fruit,2,179,26,Thursday,Winter,54.03
+P029,Face Mask,Health,3,73,28,Saturday,Summer,20.79
+P030,Moisturizer,Health,2,123,67,Wednesday,Summer,154.27
+P028,Disinfectant Wipes,Cleaning,6,189,63,Wednesday,Summer,67.49
+P017,Cookies,Snacks,9,11,51,Sunday,Rainy,27.87
+P002,Bread,Bakery,8,86,68,Thursday,Rainy,28.79
+P022,Coconut Water,Beverage,4,17,49,Thursday,Summer,40.14
+P031,Cough Syrup,Health,5,164,70,Sunday,Summer,87.35
+P002,Bread,Bakery,6,90,38,Sunday,Winter,21.19
+P002,Bread,Bakery,3,34,20,Sunday,Rainy,29.05
+P006,Butter,Dairy,10,41,40,Tuesday,Summer,46.52
+P001,Milk,Dairy,10,105,99,Sunday,Winter,35.48
+P021,Iced Tea,Beverage,9,39,88,Sunday,Summer,34.21
+P011,Onion,Produce,4,181,72,Sunday,Summer,30.54
+P022,Coconut Water,Beverage,2,116,41,Friday,Rainy,37.93
+P015,Fish,Meat,6,79,83,Tuesday,Rainy,150.4
+P021,Iced Tea,Beverage,10,10,98,Wednesday,Summer,30.54
+P014,Chicken,Meat,5,170,97,Saturday,Winter,125.1
+P012,Apple,Fruit,2,20,28,Monday,Winter,61.07
+P029,Face Mask,Health,4,141,24,Thursday,Winter,15.28
+P019,Frozen Pizza,Frozen,9,16,22,Thursday,Summer,143.29
+P009,Spinach,Produce,6,67,67,Tuesday,Summer,21.45
+P019,Frozen Pizza,Frozen,5,180,80,Monday,Summer,147.51
+P021,Iced Tea,Beverage,1,110,23,Friday,Summer,27.66
+P026,Baby Formula,Baby,5,59,86,Tuesday,Summer,255.56
+P027,Toothpaste,Health,9,186,97,Friday,Rainy,34.04
+P018,Granola Bar,Snacks,4,100,55,Thursday,Summer,42.97
+P029,Face Mask,Health,1,63,34,Tuesday,Winter,27.69
+P006,Butter,Dairy,8,37,41,Saturday,Rainy,49.77
+P028,Disinfectant Wipes,Cleaning,1,70,22,Thursday,Rainy,70.88
+P030,Moisturizer,Health,5,63,89,Sunday,Summer,158.22
+P013,Banana,Fruit,3,121,90,Thursday,Summer,19.66
+P009,Spinach,Produce,1,122,81,Sunday,Summer,28.78
+P019,Frozen Pizza,Frozen,4,64,47,Sunday,Rainy,152.25
+P001,Milk,Dairy,2,173,59,Thursday,Rainy,42.2
+P020,Ice Cream,Frozen,2,26,75,Thursday,Summer,102.73
+P013,Banana,Fruit,4,49,29,Friday,Winter,12.22
+P007,Eggs,Dairy,9,111,67,Sunday,Winter,5.0
+P026,Baby Formula,Baby,10,119,37,Saturday,Rainy,235.0
+P016,Chips,Snacks,7,66,38,Sunday,Winter,19.32
+P016,Chips,Snacks,7,59,96,Friday,Rainy,32.35
+P010,Tomato,Produce,2,11,65,Friday,Rainy,34.31
+P027,Toothpaste,Health,6,120,57,Saturday,Winter,40.02
+P002,Bread,Bakery,10,122,54,Monday,Summer,19.08
+P022,Coconut Water,Beverage,3,151,91,Tuesday,Summer,49.88
+P022,Coconut Water,Beverage,3,152,77,Tuesday,Rainy,43.16
+P024,Canned Tuna,Canned,2,168,74,Friday,Rainy,82.54
+P013,Banana,Fruit,10,134,53,Saturday,Summer,5.0
+P024,Canned Tuna,Canned,8,175,32,Thursday,Rainy,64.81
+P005,Juice,Beverage,5,18,63,Tuesday,Summer,55.64
+P022,Coconut Water,Beverage,6,17,69,Saturday,Summer,44.68
+P008,Paneer,Dairy,8,97,23,Wednesday,Winter,56.35
+P005,Juice,Beverage,1,97,100,Sunday,Winter,66.2
+P025,Dog Food,Pet,4,52,50,Wednesday,Rainy,100.12
+P010,Tomato,Produce,2,71,40,Wednesday,Winter,24.94
+P031,Cough Syrup,Health,10,22,30,Monday,Winter,78.23
+P028,Disinfectant Wipes,Cleaning,4,14,21,Tuesday,Winter,65.31
+P003,Yogurt,Dairy,7,90,69,Saturday,Summer,45.64
+P019,Frozen Pizza,Frozen,10,37,34,Saturday,Rainy,142.71
+P001,Milk,Dairy,2,179,68,Sunday,Rainy,41.19
+P004,Cheese,Dairy,5,62,82,Saturday,Summer,65.59
+P006,Butter,Dairy,9,115,78,Saturday,Winter,50.98
+P001,Milk,Dairy,1,103,94,Monday,Rainy,51.17
+P022,Coconut Water,Beverage,4,160,42,Friday,Winter,31.5
+P006,Butter,Dairy,7,110,63,Wednesday,Winter,50.54
+P024,Canned Tuna,Canned,7,46,78,Wednesday,Rainy,84.12
+P018,Granola Bar,Snacks,8,24,46,Thursday,Rainy,34.25
+P009,Spinach,Produce,9,84,63,Thursday,Summer,16.51
+P006,Butter,Dairy,9,24,77,Monday,Summer,55.51
+P001,Milk,Dairy,4,200,80,Thursday,Summer,43.02
+P012,Apple,Fruit,10,156,59,Wednesday,Summer,50.49
+P005,Juice,Beverage,4,164,26,Sunday,Rainy,38.03
+P019,Frozen Pizza,Frozen,6,92,56,Saturday,Winter,147.94
+P031,Cough Syrup,Health,1,12,83,Monday,Rainy,106.02
+P023,Baked Beans,Canned,6,144,52,Friday,Rainy,55.95
+P024,Canned Tuna,Canned,1,158,34,Tuesday,Rainy,75.87
+P015,Fish,Meat,2,63,35,Thursday,Winter,148.03
+P003,Yogurt,Dairy,9,182,35,Monday,Rainy,34.54
+P021,Iced Tea,Beverage,10,68,58,Tuesday,Summer,24.98
+P016,Chips,Snacks,1,186,33,Friday,Winter,22.26
+P029,Face Mask,Health,9,135,80,Tuesday,Summer,19.68
+P019,Frozen Pizza,Frozen,1,183,30,Saturday,Summer,143.73
+P004,Cheese,Dairy,1,128,100,Wednesday,Winter,72.21
+P030,Moisturizer,Health,7,74,29,Sunday,Rainy,144.34
+P018,Granola Bar,Snacks,10,129,57,Thursday,Summer,34.41
+P029,Face Mask,Health,1,144,69,Sunday,Rainy,28.52
+P030,Moisturizer,Health,9,154,65,Friday,Summer,140.42
+P022,Coconut Water,Beverage,3,192,82,Monday,Rainy,39.53
+P018,Granola Bar,Snacks,9,76,54,Wednesday,Rainy,30.78
+P026,Baby Formula,Baby,10,70,77,Monday,Rainy,245.56
+P018,Granola Bar,Snacks,5,60,72,Sunday,Summer,46.7
+P020,Ice Cream,Frozen,8,41,34,Monday,Winter,84.84
+P021,Iced Tea,Beverage,7,129,71,Sunday,Winter,27.18
+P005,Juice,Beverage,7,101,28,Monday,Winter,38.64
+P011,Onion,Produce,1,133,82,Saturday,Winter,40.38
+P003,Yogurt,Dairy,10,166,24,Saturday,Rainy,26.39
+P005,Juice,Beverage,7,48,22,Monday,Winter,43.09
+P013,Banana,Fruit,8,175,54,Sunday,Rainy,5.0
+P007,Eggs,Dairy,5,85,39,Sunday,Winter,5.68
+P022,Coconut Water,Beverage,10,57,73,Tuesday,Rainy,37.57
+P028,Disinfectant Wipes,Cleaning,7,157,38,Thursday,Rainy,57.16
+P023,Baked Beans,Canned,9,147,93,Wednesday,Summer,56.88
+P025,Dog Food,Pet,5,152,88,Wednesday,Rainy,104.69
+P025,Dog Food,Pet,6,58,48,Wednesday,Winter,96.79
+P013,Banana,Fruit,5,81,70,Friday,Rainy,17.92
+P030,Moisturizer,Health,1,118,84,Wednesday,Winter,160.09
+P020,Ice Cream,Frozen,2,106,21,Friday,Winter,86.85
+P003,Yogurt,Dairy,4,18,66,Tuesday,Rainy,51.52
+P012,Apple,Fruit,4,51,65,Tuesday,Rainy,63.14
+P031,Cough Syrup,Health,4,72,32,Wednesday,Rainy,88.25
+P030,Moisturizer,Health,8,145,62,Tuesday,Winter,142.77
+P008,Paneer,Dairy,10,164,25,Sunday,Summer,51.9
+P031,Cough Syrup,Health,4,46,78,Wednesday,Rainy,98.5
+P016,Chips,Snacks,4,40,39,Friday,Summer,26.3
+P013,Banana,Fruit,10,98,34,Tuesday,Winter,5.0
+P020,Ice Cream,Frozen,2,80,90,Monday,Summer,99.28
+P017,Cookies,Snacks,3,141,25,Thursday,Winter,29.13
+P007,Eggs,Dairy,1,88,93,Friday,Winter,25.0
+P009,Spinach,Produce,8,96,42,Wednesday,Rainy,10.12
+P020,Ice Cream,Frozen,2,116,98,Monday,Winter,103.08
+P025,Dog Food,Pet,4,159,57,Friday,Summer,99.34
+P026,Baby Formula,Baby,2,58,77,Sunday,Winter,261.66
+P018,Granola Bar,Snacks,1,189,84,Saturday,Summer,45.02
+P001,Milk,Dairy,3,66,55,Tuesday,Winter,40.64
+P010,Tomato,Produce,3,97,57,Wednesday,Summer,26.68
+P018,Granola Bar,Snacks,10,58,96,Wednesday,Winter,34.81
+P018,Granola Bar,Snacks,9,111,26,Wednesday,Rainy,21.96
+P012,Apple,Fruit,1,116,34,Sunday,Winter,58.04
+P004,Cheese,Dairy,5,119,25,Monday,Rainy,53.03
+P020,Ice Cream,Frozen,1,173,98,Sunday,Summer,100.77
+P021,Iced Tea,Beverage,2,57,98,Friday,Rainy,45.27
+P003,Yogurt,Dairy,4,101,57,Thursday,Winter,43.58
+P011,Onion,Produce,1,130,62,Tuesday,Rainy,33.91
+P021,Iced Tea,Beverage,4,170,49,Monday,Summer,18.8
+P002,Bread,Bakery,7,181,71,Friday,Rainy,20.48
+P005,Juice,Beverage,10,87,98,Friday,Winter,48.26
+P017,Cookies,Snacks,4,139,68,Saturday,Winter,33.97
+P031,Cough Syrup,Health,10,174,77,Sunday,Rainy,79.94
+P007,Eggs,Dairy,2,37,40,Monday,Rainy,11.38
+P031,Cough Syrup,Health,6,85,79,Monday,Rainy,91.79
+P013,Banana,Fruit,7,109,72,Friday,Rainy,10.15
+P002,Bread,Bakery,7,44,85,Monday,Summer,34.23
+P023,Baked Beans,Canned,1,75,65,Thursday,Winter,68.18
+P019,Frozen Pizza,Frozen,4,67,63,Wednesday,Winter,152.33
+P019,Frozen Pizza,Frozen,1,126,26,Monday,Winter,148.68
+P013,Banana,Fruit,4,159,21,Thursday,Rainy,5.0
+P016,Chips,Snacks,6,13,54,Wednesday,Rainy,24.62
+P025,Dog Food,Pet,9,34,41,Monday,Rainy,95.97
+P022,Coconut Water,Beverage,7,76,50,Tuesday,Rainy,38.01
+P004,Cheese,Dairy,8,146,48,Friday,Rainy,48.85
+P005,Juice,Beverage,3,144,73,Thursday,Summer,50.29
+P016,Chips,Snacks,2,50,90,Friday,Summer,39.24
+P031,Cough Syrup,Health,6,153,72,Wednesday,Winter,88.99
+P012,Apple,Fruit,10,38,98,Thursday,Summer,66.15
+P021,Iced Tea,Beverage,9,154,68,Sunday,Summer,23.93
+P013,Banana,Fruit,3,146,86,Thursday,Rainy,20.16
+P013,Banana,Fruit,7,176,43,Monday,Summer,6.21
+P019,Frozen Pizza,Frozen,5,20,61,Sunday,Summer,153.91
+P015,Fish,Meat,5,80,97,Wednesday,Winter,160.11
+P029,Face Mask,Health,7,43,56,Tuesday,Summer,22.76
+P009,Spinach,Produce,1,142,30,Friday,Winter,17.33
+P003,Yogurt,Dairy,4,167,69,Sunday,Winter,46.92
+P018,Granola Bar,Snacks,6,66,42,Monday,Rainy,30.78
+P017,Cookies,Snacks,1,32,33,Wednesday,Summer,36.35
+P021,Iced Tea,Beverage,3,53,58,Friday,Winter,34.33
+P016,Chips,Snacks,5,74,58,Tuesday,Rainy,25.13
+P007,Eggs,Dairy,5,132,26,Friday,Summer,5.0
+P014,Chicken,Meat,6,112,68,Saturday,Summer,121.04
+P006,Butter,Dairy,4,44,86,Monday,Winter,66.78
+P015,Fish,Meat,8,33,93,Saturday,Rainy,153.44
+P018,Granola Bar,Snacks,8,67,72,Tuesday,Summer,38.94
+P021,Iced Tea,Beverage,10,142,27,Thursday,Summer,9.71
+P014,Chicken,Meat,2,59,69,Thursday,Rainy,127.16
+P016,Chips,Snacks,8,67,82,Saturday,Winter,26.54
+P029,Face Mask,Health,6,114,98,Friday,Summer,31.2
+P029,Face Mask,Health,3,137,50,Sunday,Summer,19.16
+P021,Iced Tea,Beverage,4,45,84,Tuesday,Winter,38.05
+P023,Baked Beans,Canned,8,191,80,Tuesday,Winter,51.48
+P012,Apple,Fruit,9,91,31,Monday,Summer,44.19
+P010,Tomato,Produce,6,32,87,Tuesday,Winter,32.11
+P018,Granola Bar,Snacks,1,18,28,Thursday,Winter,43.89
+P011,Onion,Produce,9,174,26,Saturday,Winter,12.12
+P030,Moisturizer,Health,3,190,95,Wednesday,Winter,156.66
+P023,Baked Beans,Canned,6,54,23,Friday,Winter,49.71
+P019,Frozen Pizza,Frozen,1,73,88,Sunday,Rainy,161.71
+P025,Dog Food,Pet,3,74,91,Saturday,Rainy,112.36
+P013,Banana,Fruit,6,101,81,Saturday,Rainy,15.73
+P006,Butter,Dairy,8,50,73,Thursday,Winter,52.48
+P027,Toothpaste,Health,2,19,24,Thursday,Winter,37.77
+P016,Chips,Snacks,4,98,61,Wednesday,Winter,22.5
+P009,Spinach,Produce,7,177,85,Sunday,Winter,18.37
+P020,Ice Cream,Frozen,6,12,63,Sunday,Winter,96.42
+P010,Tomato,Produce,5,84,62,Saturday,Winter,25.21
+P015,Fish,Meat,5,155,89,Saturday,Rainy,157.36
+P003,Yogurt,Dairy,10,28,72,Saturday,Winter,42.28
+P031,Cough Syrup,Health,3,22,56,Monday,Summer,93.42
+P022,Coconut Water,Beverage,4,40,37,Wednesday,Winter,42.86
+P005,Juice,Beverage,7,195,67,Saturday,Rainy,43.77
+P012,Apple,Fruit,9,138,80,Thursday,Summer,58.28
+P017,Cookies,Snacks,8,123,25,Monday,Summer,22.84
+P010,Tomato,Produce,3,193,93,Friday,Rainy,30.07
+P005,Juice,Beverage,1,31,45,Friday,Winter,54.72
+P027,Toothpaste,Health,8,125,42,Tuesday,Winter,28.58
+P012,Apple,Fruit,8,86,90,Wednesday,Rainy,63.36
+P014,Chicken,Meat,10,66,99,Wednesday,Summer,119.4
+P025,Dog Food,Pet,7,149,22,Saturday,Rainy,88.04
+P031,Cough Syrup,Health,6,56,60,Friday,Rainy,91.34
+P030,Moisturizer,Health,6,142,48,Wednesday,Winter,142.88
+P021,Iced Tea,Beverage,9,38,48,Thursday,Summer,22.58
+P011,Onion,Produce,2,181,79,Tuesday,Summer,35.31
+P001,Milk,Dairy,2,186,27,Wednesday,Rainy,37.54
+P016,Chips,Snacks,2,69,62,Thursday,Winter,31.01
+P006,Butter,Dairy,7,160,27,Thursday,Summer,43.7
+P008,Paneer,Dairy,10,135,62,Saturday,Rainy,60.23
+P022,Coconut Water,Beverage,6,62,82,Sunday,Winter,43.05
+P001,Milk,Dairy,2,142,35,Thursday,Rainy,38.6
+P006,Butter,Dairy,7,83,65,Sunday,Winter,53.43
+P015,Fish,Meat,2,197,82,Monday,Summer,155.47
+P030,Moisturizer,Health,7,49,97,Monday,Rainy,157.04
+P031,Cough Syrup,Health,9,90,75,Friday,Summer,85.66
+P016,Chips,Snacks,2,89,69,Sunday,Rainy,26.77
+P023,Baked Beans,Canned,1,39,33,Wednesday,Summer,61.72
+P031,Cough Syrup,Health,2,48,66,Saturday,Winter,96.98
+P005,Juice,Beverage,8,165,44,Thursday,Winter,38.08
+P020,Ice Cream,Frozen,9,176,60,Saturday,Winter,83.66
+P020,Ice Cream,Frozen,3,170,68,Thursday,Summer,88.56
+P025,Dog Food,Pet,2,125,89,Wednesday,Rainy,110.6
+P005,Juice,Beverage,9,128,34,Tuesday,Winter,35.08
+P017,Cookies,Snacks,8,19,96,Saturday,Rainy,38.14
+P003,Yogurt,Dairy,3,156,29,Wednesday,Summer,37.38
+P031,Cough Syrup,Health,6,126,75,Wednesday,Winter,88.98
+P009,Spinach,Produce,2,122,89,Saturday,Rainy,28.53
+P027,Toothpaste,Health,7,59,60,Tuesday,Winter,39.06
+P004,Cheese,Dairy,6,110,89,Sunday,Winter,62.45
+P022,Coconut Water,Beverage,2,161,70,Tuesday,Winter,40.55
+P028,Disinfectant Wipes,Cleaning,10,198,38,Tuesday,Summer,54.25
+P001,Milk,Dairy,4,113,84,Wednesday,Winter,44.82
+P030,Moisturizer,Health,1,51,65,Tuesday,Summer,158.98
+P024,Canned Tuna,Canned,10,13,44,Thursday,Winter,75.86
+P024,Canned Tuna,Canned,5,192,44,Monday,Rainy,71.9
+P031,Cough Syrup,Health,10,131,96,Friday,Rainy,85.1
+P023,Baked Beans,Canned,2,159,83,Sunday,Winter,63.36
+P029,Face Mask,Health,5,191,26,Friday,Winter,14.43
+P013,Banana,Fruit,2,191,54,Saturday,Winter,16.19
+P013,Banana,Fruit,4,110,85,Monday,Summer,19.86
+P002,Bread,Bakery,9,71,49,Sunday,Rainy,25.85
+P019,Frozen Pizza,Frozen,5,93,30,Tuesday,Winter,145.12
+P018,Granola Bar,Snacks,5,197,53,Sunday,Rainy,32.05
+P019,Frozen Pizza,Frozen,8,178,93,Tuesday,Summer,147.04
+P031,Cough Syrup,Health,1,87,66,Saturday,Rainy,96.4
+P013,Banana,Fruit,4,82,42,Sunday,Rainy,14.03
+P029,Face Mask,Health,10,91,28,Wednesday,Summer,7.77
+P013,Banana,Fruit,7,77,91,Tuesday,Winter,19.9
+P007,Eggs,Dairy,8,80,56,Friday,Summer,5.0
+P015,Fish,Meat,7,98,59,Monday,Summer,152.04
+P025,Dog Food,Pet,6,19,88,Monday,Summer,107.32
+P013,Banana,Fruit,2,144,64,Sunday,Summer,19.69
+P027,Toothpaste,Health,2,178,81,Saturday,Winter,43.87
+P019,Frozen Pizza,Frozen,10,189,97,Monday,Winter,148.23
+P018,Granola Bar,Snacks,9,177,52,Tuesday,Rainy,28.25
+P027,Toothpaste,Health,4,180,30,Tuesday,Winter,31.48
+P022,Coconut Water,Beverage,3,200,53,Thursday,Rainy,38.55
+P002,Bread,Bakery,9,46,54,Friday,Summer,24.29
+P021,Iced Tea,Beverage,3,200,39,Monday,Winter,22.74
+P031,Cough Syrup,Health,5,28,97,Thursday,Winter,100.82
+P023,Baked Beans,Canned,7,180,51,Wednesday,Winter,53.08
+P011,Onion,Produce,5,60,63,Thursday,Winter,32.8
+P030,Moisturizer,Health,4,63,58,Friday,Rainy,150.87
+P026,Baby Formula,Baby,10,82,48,Friday,Summer,242.89
+P025,Dog Food,Pet,7,22,45,Friday,Summer,95.88
+P026,Baby Formula,Baby,5,84,88,Wednesday,Summer,255.94
+P004,Cheese,Dairy,5,35,62,Sunday,Winter,64.92
+P019,Frozen Pizza,Frozen,4,136,67,Friday,Winter,151.42
+P015,Fish,Meat,6,188,31,Sunday,Rainy,137.88
+P020,Ice Cream,Frozen,8,71,71,Tuesday,Winter,87.92
+P023,Baked Beans,Canned,10,182,31,Monday,Winter,41.31
+P024,Canned Tuna,Canned,6,124,71,Saturday,Summer,79.04
+P002,Bread,Bakery,7,139,54,Monday,Winter,24.09
+P001,Milk,Dairy,10,162,64,Tuesday,Rainy,26.92
+P016,Chips,Snacks,1,128,24,Sunday,Winter,22.21
+P008,Paneer,Dairy,6,29,28,Tuesday,Rainy,67.33
+P026,Baby Formula,Baby,8,180,75,Saturday,Rainy,242.45
+P008,Paneer,Dairy,10,59,64,Monday,Winter,67.26
+P016,Chips,Snacks,4,103,20,Monday,Summer,18.48
+P008,Paneer,Dairy,1,177,91,Wednesday,Rainy,77.19
+P007,Eggs,Dairy,7,61,33,Sunday,Winter,6.72
+P024,Canned Tuna,Canned,4,74,21,Thursday,Summer,74.95
+P003,Yogurt,Dairy,6,67,45,Friday,Summer,40.76
+P009,Spinach,Produce,9,59,93,Tuesday,Rainy,23.56
+P015,Fish,Meat,8,163,39,Wednesday,Rainy,142.65
+P027,Toothpaste,Health,1,168,26,Tuesday,Summer,37.81
+P022,Coconut Water,Beverage,7,108,78,Thursday,Winter,39.72
+P018,Granola Bar,Snacks,9,56,51,Monday,Rainy,34.99
+P012,Apple,Fruit,6,51,23,Saturday,Summer,51.55
+P014,Chicken,Meat,4,40,47,Monday,Summer,122.97
+P028,Disinfectant Wipes,Cleaning,10,79,60,Saturday,Winter,64.18
+P007,Eggs,Dairy,10,127,57,Sunday,Winter,5.0
+P013,Banana,Fruit,5,70,22,Thursday,Rainy,8.69
+P014,Chicken,Meat,10,106,48,Tuesday,Summer,109.65
+P004,Cheese,Dairy,6,119,56,Wednesday,Rainy,55.04
+P005,Juice,Beverage,4,95,32,Monday,Rainy,43.26
+P008,Paneer,Dairy,3,97,27,Tuesday,Rainy,67.88
+P021,Iced Tea,Beverage,1,24,55,Sunday,Winter,40.12
+P015,Fish,Meat,6,95,33,Thursday,Summer,144.55
+P027,Toothpaste,Health,8,165,57,Friday,Summer,34.34
+P003,Yogurt,Dairy,2,101,72,Friday,Rainy,50.21
+P006,Butter,Dairy,5,14,42,Tuesday,Summer,52.98
+P006,Butter,Dairy,3,146,77,Wednesday,Winter,59.92
+P009,Spinach,Produce,7,83,88,Wednesday,Winter,20.59
+P004,Cheese,Dairy,10,189,40,Wednesday,Rainy,43.72
+P017,Cookies,Snacks,6,51,79,Friday,Winter,39.1
+P024,Canned Tuna,Canned,2,122,83,Saturday,Winter,83.98
+P015,Fish,Meat,2,87,56,Tuesday,Winter,154.84
+P021,Iced Tea,Beverage,4,151,26,Monday,Winter,19.39
+P010,Tomato,Produce,9,179,99,Thursday,Rainy,21.58
+P007,Eggs,Dairy,1,166,46,Tuesday,Summer,11.21
+P019,Frozen Pizza,Frozen,7,103,24,Wednesday,Rainy,138.52
+P012,Apple,Fruit,10,170,45,Sunday,Rainy,45.44
+P019,Frozen Pizza,Frozen,3,11,94,Friday,Winter,162.87
+P026,Baby Formula,Baby,1,189,50,Tuesday,Rainy,252.42
+P020,Ice Cream,Frozen,3,89,38,Tuesday,Rainy,88.86
+P008,Paneer,Dairy,7,118,48,Tuesday,Rainy,62.18
+P029,Face Mask,Health,7,69,94,Monday,Summer,28.53
+P025,Dog Food,Pet,5,151,42,Friday,Winter,95.51
+P019,Frozen Pizza,Frozen,1,57,64,Sunday,Winter,156.99
+P025,Dog Food,Pet,7,53,95,Thursday,Rainy,102.87
+P021,Iced Tea,Beverage,7,19,41,Sunday,Rainy,24.95
+P023,Baked Beans,Canned,8,28,55,Tuesday,Winter,59.03
+P009,Spinach,Produce,9,63,33,Monday,Winter,9.13
+P018,Granola Bar,Snacks,9,26,28,Tuesday,Summer,31.5
+P011,Onion,Produce,8,120,92,Monday,Summer,27.44
+P023,Baked Beans,Canned,9,80,35,Wednesday,Summer,49.69
+P014,Chicken,Meat,5,192,51,Monday,Summer,113.68
+P007,Eggs,Dairy,3,149,32,Thursday,Rainy,5.19
+P001,Milk,Dairy,6,166,74,Sunday,Summer,39.17
+P009,Spinach,Produce,8,69,81,Sunday,Winter,23.86
+P020,Ice Cream,Frozen,5,93,88,Thursday,Winter,97.03
+P007,Eggs,Dairy,9,134,68,Monday,Winter,5.0
+P001,Milk,Dairy,10,140,80,Friday,Rainy,36.27
+P002,Bread,Bakery,3,47,49,Wednesday,Winter,33.84
+P004,Cheese,Dairy,8,180,65,Friday,Summer,52.98
+P003,Yogurt,Dairy,9,136,38,Friday,Winter,31.38
+P019,Frozen Pizza,Frozen,5,196,95,Sunday,Winter,149.82
+P002,Bread,Bakery,8,136,84,Monday,Summer,29.52
+P010,Tomato,Produce,5,38,76,Saturday,Rainy,29.36
+P015,Fish,Meat,6,112,28,Wednesday,Summer,144.42
+P021,Iced Tea,Beverage,9,197,49,Saturday,Winter,17.64
+P001,Milk,Dairy,3,138,82,Saturday,Winter,45.22
+P030,Moisturizer,Health,5,132,28,Thursday,Rainy,140.92
+P011,Onion,Produce,9,177,74,Tuesday,Winter,24.73
+P007,Eggs,Dairy,3,103,24,Friday,Summer,5.45
+P022,Coconut Water,Beverage,2,29,28,Sunday,Rainy,43.15
+P020,Ice Cream,Frozen,7,81,65,Wednesday,Rainy,90.02
+P015,Fish,Meat,4,120,74,Friday,Summer,152.33
+P030,Moisturizer,Health,9,114,72,Friday,Winter,144.34
+P018,Granola Bar,Snacks,10,119,70,Tuesday,Summer,31.01
+P023,Baked Beans,Canned,1,27,68,Sunday,Winter,69.95
+P031,Cough Syrup,Health,9,18,58,Monday,Summer,85.27
+P028,Disinfectant Wipes,Cleaning,5,192,84,Tuesday,Summer,69.71
+P012,Apple,Fruit,2,36,95,Saturday,Winter,76.39
+P023,Baked Beans,Canned,7,142,97,Friday,Winter,61.55
+P014,Chicken,Meat,8,161,62,Monday,Summer,113.72
+P005,Juice,Beverage,9,123,34,Saturday,Rainy,39.48
+P008,Paneer,Dairy,6,170,90,Wednesday,Summer,68.55
+P025,Dog Food,Pet,5,103,61,Friday,Rainy,101.38
+P023,Baked Beans,Canned,8,142,78,Tuesday,Rainy,57.91
+P019,Frozen Pizza,Frozen,6,145,61,Tuesday,Rainy,141.71
+P028,Disinfectant Wipes,Cleaning,10,199,43,Sunday,Rainy,50.94
+P010,Tomato,Produce,6,16,45,Sunday,Winter,28.56
+P021,Iced Tea,Beverage,4,31,42,Thursday,Summer,29.24
+P005,Juice,Beverage,4,17,98,Thursday,Summer,61.66
+P026,Baby Formula,Baby,9,44,86,Tuesday,Winter,255.51
+P019,Frozen Pizza,Frozen,2,95,81,Thursday,Summer,159.29
+P023,Baked Beans,Canned,2,43,26,Thursday,Rainy,60.32
+P018,Granola Bar,Snacks,1,146,25,Wednesday,Summer,38.44
+P020,Ice Cream,Frozen,7,143,77,Thursday,Winter,86.88
+P012,Apple,Fruit,9,165,91,Sunday,Summer,58.62
+P019,Frozen Pizza,Frozen,9,48,73,Tuesday,Winter,148.62
+P021,Iced Tea,Beverage,3,69,27,Monday,Rainy,26.37
+P027,Toothpaste,Health,10,122,58,Friday,Rainy,28.18
+P005,Juice,Beverage,7,32,60,Tuesday,Winter,51.07
+P017,Cookies,Snacks,10,98,87,Sunday,Summer,30.87
+P001,Milk,Dairy,1,80,31,Tuesday,Summer,39.78
+P014,Chicken,Meat,8,37,30,Monday,Summer,110.3
+P027,Toothpaste,Health,7,179,54,Saturday,Rainy,29.48
+P019,Frozen Pizza,Frozen,5,27,69,Sunday,Winter,157.15
+P003,Yogurt,Dairy,6,187,85,Thursday,Winter,42.07
+P005,Juice,Beverage,8,129,58,Monday,Winter,41.07
+P020,Ice Cream,Frozen,6,119,28,Thursday,Rainy,81.63
+P011,Onion,Produce,2,191,73,Sunday,Winter,35.89
+P010,Tomato,Produce,9,12,62,Saturday,Summer,22.7
+P031,Cough Syrup,Health,5,45,34,Friday,Winter,88.92
+P024,Canned Tuna,Canned,5,116,38,Tuesday,Winter,70.24
+P018,Granola Bar,Snacks,6,84,83,Tuesday,Rainy,40.76
+P003,Yogurt,Dairy,4,27,80,Thursday,Summer,55.1
+P006,Butter,Dairy,9,43,75,Sunday,Winter,55.14
+P010,Tomato,Produce,9,144,64,Sunday,Winter,16.02
+P027,Toothpaste,Health,5,173,58,Wednesday,Winter,33.41
+P017,Cookies,Snacks,1,17,71,Thursday,Winter,47.67
+P011,Onion,Produce,2,23,32,Tuesday,Rainy,33.53
+P002,Bread,Bakery,6,18,21,Tuesday,Summer,27.04
+P007,Eggs,Dairy,7,35,92,Thursday,Winter,14.71
+P007,Eggs,Dairy,2,29,20,Tuesday,Winter,10.19
+P024,Canned Tuna,Canned,10,137,94,Wednesday,Rainy,75.58
+P011,Onion,Produce,3,114,70,Saturday,Summer,31.37
+P016,Chips,Snacks,4,38,89,Saturday,Rainy,32.1
+P009,Spinach,Produce,4,124,56,Tuesday,Summer,21.17
+P016,Chips,Snacks,2,167,54,Saturday,Summer,22.48
+P018,Granola Bar,Snacks,4,14,80,Tuesday,Rainy,48.64
+P010,Tomato,Produce,5,167,92,Friday,Summer,24.44
+P008,Paneer,Dairy,8,110,24,Wednesday,Winter,56.71
+P022,Coconut Water,Beverage,9,176,99,Sunday,Winter,36.9
+P006,Butter,Dairy,6,137,40,Friday,Summer,50.14
+P010,Tomato,Produce,6,12,85,Thursday,Rainy,34.28
+P027,Toothpaste,Health,8,184,31,Tuesday,Rainy,18.84
+P018,Granola Bar,Snacks,4,73,71,Tuesday,Rainy,44.95
+P008,Paneer,Dairy,6,59,51,Thursday,Rainy,66.93
+P002,Bread,Bakery,10,153,37,Monday,Winter,14.46
+P031,Cough Syrup,Health,4,152,92,Sunday,Winter,94.55
+P006,Butter,Dairy,10,102,50,Wednesday,Rainy,44.77
+P023,Baked Beans,Canned,10,124,81,Saturday,Winter,54.44
+P017,Cookies,Snacks,9,88,55,Monday,Summer,24.3
+P017,Cookies,Snacks,9,199,75,Thursday,Rainy,24.39
+P023,Baked Beans,Canned,2,115,71,Wednesday,Winter,68.34
+P026,Baby Formula,Baby,7,94,86,Friday,Winter,252.05
+P010,Tomato,Produce,10,119,99,Thursday,Summer,22.74
+P020,Ice Cream,Frozen,8,20,95,Thursday,Winter,92.75
+P023,Baked Beans,Canned,1,140,75,Thursday,Winter,67.42
+P010,Tomato,Produce,10,62,42,Friday,Rainy,14.75
+P012,Apple,Fruit,2,122,70,Monday,Summer,63.9
+P007,Eggs,Dairy,5,185,66,Wednesday,Winter,5.53
+P006,Butter,Dairy,5,129,91,Monday,Rainy,60.2
+P005,Juice,Beverage,4,148,35,Monday,Rainy,43.45
+P001,Milk,Dairy,5,174,22,Friday,Summer,27.02
+P003,Yogurt,Dairy,2,191,64,Tuesday,Summer,44.94
+P006,Butter,Dairy,5,168,44,Sunday,Winter,45.45
+P019,Frozen Pizza,Frozen,4,195,37,Tuesday,Winter,141.74
+P004,Cheese,Dairy,8,22,49,Sunday,Winter,60.37
+P013,Banana,Fruit,1,124,61,Friday,Summer,17.57
+P014,Chicken,Meat,4,12,30,Saturday,Rainy,122.42
+P010,Tomato,Produce,3,53,77,Sunday,Winter,34.04
+P030,Moisturizer,Health,5,38,34,Sunday,Summer,149.67
+P003,Yogurt,Dairy,4,127,69,Wednesday,Winter,46.91
+P026,Baby Formula,Baby,4,105,60,Thursday,Rainy,253.31
+P026,Baby Formula,Baby,2,177,59,Saturday,Summer,253.49
+P011,Onion,Produce,9,165,70,Monday,Winter,26.18
+P009,Spinach,Produce,2,27,85,Friday,Rainy,29.75
+P014,Chicken,Meat,7,91,90,Wednesday,Summer,123.78
+P012,Apple,Fruit,7,29,65,Sunday,Winter,63.99
+P009,Spinach,Produce,4,57,93,Saturday,Winter,29.88
+P001,Milk,Dairy,5,100,68,Saturday,Summer,36.98
+P001,Milk,Dairy,4,22,76,Monday,Summer,49.89
+P024,Canned Tuna,Canned,9,174,71,Thursday,Summer,72.81
+P009,Spinach,Produce,6,163,83,Friday,Rainy,20.85
+P028,Disinfectant Wipes,Cleaning,8,45,90,Sunday,Rainy,75.55
+P023,Baked Beans,Canned,1,108,64,Saturday,Summer,65.4
+P029,Face Mask,Health,9,93,65,Sunday,Winter,21.02
+P013,Banana,Fruit,3,63,45,Saturday,Rainy,18.87
+P015,Fish,Meat,8,191,42,Saturday,Winter,133.79
+P002,Bread,Bakery,10,126,27,Friday,Winter,14.15
+P002,Bread,Bakery,5,80,22,Wednesday,Summer,23.64
+P005,Juice,Beverage,9,35,50,Tuesday,Winter,45.94
+P013,Banana,Fruit,1,61,21,Monday,Summer,12.94
+P029,Face Mask,Health,10,11,34,Saturday,Summer,17.56
+P007,Eggs,Dairy,1,124,36,Friday,Winter,14.52
+P015,Fish,Meat,2,76,32,Tuesday,Summer,152.81
+P002,Bread,Bakery,6,27,64,Wednesday,Summer,32.89
+P017,Cookies,Snacks,10,57,39,Tuesday,Rainy,22.67
+P003,Yogurt,Dairy,10,29,24,Tuesday,Rainy,30.57
+P001,Milk,Dairy,8,59,62,Monday,Rainy,36.71
+P012,Apple,Fruit,4,33,83,Friday,Rainy,70.1
+P022,Coconut Water,Beverage,3,119,34,Friday,Rainy,34.71
+P013,Banana,Fruit,1,40,25,Wednesday,Rainy,14.71
+P028,Disinfectant Wipes,Cleaning,5,179,70,Sunday,Winter,68.13
+P001,Milk,Dairy,8,173,100,Saturday,Winter,42.44
+P024,Canned Tuna,Canned,8,73,43,Tuesday,Rainy,71.39
+P019,Frozen Pizza,Frozen,2,12,27,Thursday,Rainy,151.03
+P001,Milk,Dairy,5,24,57,Monday,Winter,44.57
+P011,Onion,Produce,2,176,61,Tuesday,Summer,28.94
+P006,Butter,Dairy,2,91,34,Tuesday,Summer,55.8
+P010,Tomato,Produce,1,46,22,Saturday,Summer,24.32
+P025,Dog Food,Pet,4,29,99,Monday,Summer,113.34
+P015,Fish,Meat,3,133,89,Friday,Winter,156.04
+P022,Coconut Water,Beverage,9,118,31,Tuesday,Winter,28.99
+P016,Chips,Snacks,3,193,83,Sunday,Rainy,28.05
+P017,Cookies,Snacks,10,130,52,Wednesday,Winter,22.59
+P018,Granola Bar,Snacks,4,24,35,Saturday,Summer,38.9
+P021,Iced Tea,Beverage,5,74,72,Saturday,Winter,32.46
+P027,Toothpaste,Health,4,159,71,Monday,Rainy,38.75
+P031,Cough Syrup,Health,3,58,30,Monday,Winter,89.75
+P025,Dog Food,Pet,8,157,27,Tuesday,Rainy,87.92
+P003,Yogurt,Dairy,8,126,59,Monday,Winter,40.29
+P012,Apple,Fruit,9,10,52,Tuesday,Winter,54.72
+P027,Toothpaste,Health,2,74,51,Wednesday,Summer,43.01
+P016,Chips,Snacks,10,23,49,Thursday,Rainy,19.53
+P017,Cookies,Snacks,3,135,29,Sunday,Rainy,28.54
+P015,Fish,Meat,10,83,73,Friday,Rainy,143.53
+P009,Spinach,Produce,6,114,62,Friday,Winter,15.23
+P009,Spinach,Produce,3,179,55,Monday,Winter,15.98
+P019,Frozen Pizza,Frozen,4,17,28,Saturday,Summer,147.88
+P030,Moisturizer,Health,10,180,55,Thursday,Summer,137.08
+P014,Chicken,Meat,3,13,89,Thursday,Winter,136.2
+P012,Apple,Fruit,1,153,65,Sunday,Summer,66.23
+P010,Tomato,Produce,2,184,88,Saturday,Summer,26.48
+P014,Chicken,Meat,3,127,73,Friday,Summer,126.14
+P019,Frozen Pizza,Frozen,1,88,47,Thursday,Winter,153.16
+P021,Iced Tea,Beverage,9,50,66,Sunday,Summer,26.65
+P008,Paneer,Dairy,10,85,88,Thursday,Summer,68.49
+P006,Butter,Dairy,10,109,93,Sunday,Winter,54.6
+P018,Granola Bar,Snacks,2,31,70,Sunday,Rainy,50.21
+P014,Chicken,Meat,5,60,78,Monday,Winter,123.15
+P024,Canned Tuna,Canned,5,146,91,Friday,Summer,83.34
+P002,Bread,Bakery,7,25,40,Saturday,Rainy,24.66
+P001,Milk,Dairy,3,123,97,Friday,Winter,47.95
+P016,Chips,Snacks,9,174,86,Friday,Rainy,21.55
+P004,Cheese,Dairy,2,154,32,Sunday,Winter,53.97
+P012,Apple,Fruit,5,167,52,Thursday,Winter,54.33
+P011,Onion,Produce,7,69,34,Thursday,Winter,24.32
+P028,Disinfectant Wipes,Cleaning,9,98,94,Thursday,Rainy,70.08
+P024,Canned Tuna,Canned,1,174,23,Friday,Winter,75.21
+P012,Apple,Fruit,2,93,87,Sunday,Winter,67.11
+P024,Canned Tuna,Canned,3,93,53,Wednesday,Summer,80.89
+P023,Baked Beans,Canned,7,132,52,Thursday,Summer,50.12
+P010,Tomato,Produce,1,147,79,Wednesday,Summer,31.6
+P020,Ice Cream,Frozen,7,167,48,Wednesday,Rainy,77.64
+P022,Coconut Water,Beverage,6,33,57,Friday,Rainy,40.55
+P029,Face Mask,Health,9,166,55,Sunday,Summer,15.11
+P001,Milk,Dairy,4,42,97,Friday,Winter,53.2
+P002,Bread,Bakery,7,50,29,Thursday,Summer,26.65
+P021,Iced Tea,Beverage,9,12,90,Sunday,Rainy,33.1
+P010,Tomato,Produce,4,189,81,Sunday,Winter,27.33
+P013,Banana,Fruit,6,133,72,Thursday,Rainy,12.73
+P021,Iced Tea,Beverage,3,170,85,Wednesday,Rainy,37.96
+P003,Yogurt,Dairy,7,111,54,Saturday,Rainy,37.56
+P017,Cookies,Snacks,3,83,75,Sunday,Summer,39.25
+P031,Cough Syrup,Health,7,64,44,Wednesday,Rainy,81.41
+P002,Bread,Bakery,10,28,88,Sunday,Rainy,28.58
+P030,Moisturizer,Health,5,110,21,Tuesday,Winter,136.75
+P022,Coconut Water,Beverage,5,196,98,Wednesday,Rainy,41.82
+P015,Fish,Meat,8,150,42,Wednesday,Summer,142.27
+P006,Butter,Dairy,7,185,55,Thursday,Rainy,41.72
+P003,Yogurt,Dairy,10,61,71,Wednesday,Winter,40.63
+P003,Yogurt,Dairy,8,155,55,Tuesday,Summer,37.09
+P014,Chicken,Meat,4,160,88,Friday,Winter,122.05
+P017,Cookies,Snacks,8,43,74,Sunday,Rainy,36.05
+P019,Frozen Pizza,Frozen,10,88,82,Thursday,Winter,146.13
+P028,Disinfectant Wipes,Cleaning,6,193,100,Wednesday,Winter,72.1
+P023,Baked Beans,Canned,7,171,66,Monday,Summer,56.72
+P028,Disinfectant Wipes,Cleaning,5,168,60,Saturday,Summer,65.78
+P002,Bread,Bakery,8,57,35,Friday,Rainy,23.59
+P003,Yogurt,Dairy,5,88,47,Monday,Summer,43.96
+P006,Butter,Dairy,9,200,96,Wednesday,Summer,50.65
+P027,Toothpaste,Health,5,13,42,Thursday,Rainy,39.14
+P023,Baked Beans,Canned,4,57,69,Friday,Rainy,62.34
+P020,Ice Cream,Frozen,6,124,31,Tuesday,Rainy,85.37
+P009,Spinach,Produce,5,72,77,Saturday,Rainy,25.75
+P005,Juice,Beverage,5,25,46,Wednesday,Winter,52.96
+P008,Paneer,Dairy,5,62,46,Sunday,Summer,68.97
+P028,Disinfectant Wipes,Cleaning,8,112,28,Friday,Rainy,57.21
+P016,Chips,Snacks,2,34,91,Friday,Winter,37.3
+P004,Cheese,Dairy,5,77,33,Wednesday,Summer,56.43
+P023,Baked Beans,Canned,2,126,96,Friday,Summer,71.6
+P003,Yogurt,Dairy,6,11,76,Thursday,Winter,52.75
+P009,Spinach,Produce,10,77,30,Friday,Summer,5.9
+P002,Bread,Bakery,10,49,53,Sunday,Summer,25.5
+P006,Butter,Dairy,1,177,68,Tuesday,Rainy,62.23
